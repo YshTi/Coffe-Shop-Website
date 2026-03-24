@@ -8,13 +8,13 @@
   background-size: cover;
   background-color: #b5b4b3;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5)),
-    url(/img/hero/hero_mob-min.jpg);
+    url(../img/hero/hero_mob-min.jpg);
 }
 
 @media (min-resolution: 192dpi) {
   .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5)),
-      url(/img/hero/hero_mob@2x-min.jpg);
+      url(../img/hero/hero_mob@2x-min.jpg);
   }
 }
 
@@ -24,13 +24,13 @@
     padding-top: 311.5px;
     padding-bottom: 311.5px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5)),
-      url(/img/hero/hero_tab-min.jpg);
+      url(../img/hero/hero_tab-min.jpg);
   }
 
   @media (min-resolution: 192dpi) {
     .hero {
       background-image: linear-gradient(rgba(0, 0, 0, 0.5)),
-        url(/img/hero/hero_tab@2x-min.jpg);
+        url(../img/hero/hero_tab@2x-min.jpg);
     }
 
     .hero-container {
@@ -45,13 +45,13 @@
     padding-top: 259px;
     padding-bottom: 259px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5)),
-      url(/img/hero/hero_desk-min.jpg);
+      url(../img/hero/hero_desk-min.jpg);
   }
 
   @media (min-resolution: 192dpi) {
     .hero {
       background-image: linear-gradient(rgba(0, 0, 0, 0.5)),
-        url(/img/hero/hero_desk@2x-min.jpg);
+        url(../img/hero/hero_desk@2x-min.jpg);
     }
   }
 }
