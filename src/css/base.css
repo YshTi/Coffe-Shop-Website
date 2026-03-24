@@ -1,0 +1,20 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+  color: #0b0803;
+  background-color: #e0cbb4;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-family: "Aboreto", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  text-align: center;
+  color: #0b0803;
+}
